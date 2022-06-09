@@ -12,4 +12,4 @@
     - [Automating GIS-processes](https://autogis-site.readthedocs.io/en/latest/course-info/course-info.html)
     - [Introduction to PostGIS](http://postgis.net/workshops/postgis-intro/index.html)
     - [United Nations. Step by step](https://www.un-spider.org/advisory-support/recommended-practices/earthquake-damage-detection-sentinel-1/step-by-step)
-    
+    - [Python Graph Gallery](https://www.python-graph-gallery.com)
