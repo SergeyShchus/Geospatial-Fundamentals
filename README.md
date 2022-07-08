@@ -7,6 +7,11 @@
 
 
 - **Learn Site**
+    - [Python OS Ecosystem for GIS and Earth Observation](https://ecosystem.pythongis.org/index.html)
+    - [Python for Geographic Data Analysis](https://pythongis.org/part1/chapter-01/index.html)
+    - [Pyviz](https://pyviz.org/)
+    - [python-geospatial](https://github.com/giswqs/python-geospatial)
+    - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
     - [Geospatial-Fundamentals-in-Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
     - [GEOGRAPHY AND STATISTICS TRAINING](https://onsgeo.github.io/geospatial-training/docs/intro_to_gis_in_r)
     - [Automating GIS-processes](https://autogis-site.readthedocs.io/en/latest/course-info/course-info.html)
