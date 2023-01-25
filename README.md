@@ -19,5 +19,5 @@
     - [United Nations. Step by step](https://www.un-spider.org/advisory-support/recommended-practices/earthquake-damage-detection-sentinel-1/step-by-step)
     - [Python Graph Gallery](https://www.python-graph-gallery.com)
      - [Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-change-detection)
-    - [ENV859](https://github.com/ENV859)
+    - [ENV859 - GIT](https://github.com/ENV859)
     - [ENV 859 – Аналітика геопросторових даних](https://env859.github.io/modeling/overviewNULL.html)
