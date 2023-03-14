@@ -21,3 +21,4 @@
      - [Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html#introduction-to-change-detection)
     - [ENV859 - GIT](https://github.com/ENV859)
     - [ENV 859 – Аналітика геопросторових даних](https://env859.github.io/modeling/overviewNULL.html)
+    - [NASA - ARSET](https://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0)
