@@ -22,6 +22,7 @@
     - [ENV859 - GIT](https://github.com/ENV859)
     - [ENV 859 – Аналітика геопросторових даних](https://env859.github.io/modeling/overviewNULL.html)
     - [NASA - ARSET](https://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0)
+    - [R - Proj](https://justinmorganwilliams.medium.com/spatial-machine-learning-29137dcd1f5f)
 
 
 - **Spatial SQL**
