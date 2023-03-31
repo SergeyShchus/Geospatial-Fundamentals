@@ -23,6 +23,7 @@
     - [ENV 859 – Аналітика геопросторових даних](https://env859.github.io/modeling/overviewNULL.html)
     - [NASA - ARSET](https://appliedsciences.nasa.gov/join-mission/training/english/arset-crop-mapping-using-synthetic-aperture-radar-sar-and-optical-0)
     - [R - Proj](https://justinmorganwilliams.medium.com/spatial-machine-learning-29137dcd1f5f)
+    - [Найкращі навички сучасних ГІС для науки про просторові дані у 2022 році](https://forrest.nyc/top-modern-gis-skills-for-spatial-data-science-in-2022/)
 
 
 - **Spatial SQL**
