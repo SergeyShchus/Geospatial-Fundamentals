@@ -10,6 +10,7 @@
     - [Python OS Ecosystem for GIS and Earth Observation](https://ecosystem.pythongis.org/index.html)
     - [Python for Geographic Data Analysis](https://pythongis.org/part1/chapter-01/index.html)
     - [Pyviz](https://pyviz.org/)
+    - [Pygis](https://pygis.io/docs/d_raster_crs_intro.html)
     - [python-geospatial](https://github.com/giswqs/python-geospatial)
     - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial)
     - [Geospatial-Fundamentals-in-Python](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)
@@ -25,8 +26,9 @@
     - [R - Proj](https://justinmorganwilliams.medium.com/spatial-machine-learning-29137dcd1f5f)
     - [Найкращі навички сучасних ГІС для науки про просторові дані у 2022 році](https://forrest.nyc/top-modern-gis-skills-for-spatial-data-science-in-2022/)
     - [75 наукових ресурсів і посібників із геопросторових Python і просторових даних](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
+    - [Geographic Data Science with Python](https://justinmorganwilliams.medium.com/spatial-machine-learning-29137dcd1f5f)
 
 
 - **Spatial SQL**
     - [What is spatial SQL?](https://forrest.nyc/what-is-spatial-sql/)
-    - [40+ Spatial SQL Resources and Guides](https://forrest.nyc/40-spatial-sql-resources-and-guides/)
+    - [40+ Spatial SQL Resources and Guides](https://geographicdata.science/book/intro.html)
